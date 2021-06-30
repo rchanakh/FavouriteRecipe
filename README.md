@@ -1,6 +1,6 @@
 # FavouriteRecipe
 
-Spring boot project for Favourite Recipe management.
+Spring boot application for Favourite Recipe management.
 
 I have created backend part of project.
 
